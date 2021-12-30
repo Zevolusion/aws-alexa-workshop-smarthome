@@ -1,7 +1,6 @@
 {
   "deviceTable": "",
   "region": "us-east-1",
-  "userPoolId": "eu-east-1_XXXXXXXAi",
   "alexaSmartHomeAppId": "amzn1.ask.skill.AABBCCdd-6be4-4146-afa9-6692e164ac7d",
   "iotEndpoint": "xxxxxxxxxx-ats.iot.us-east-1.amazonaws.com"
 }
